@@ -1,5 +1,8 @@
 # JIRA Git brancher
 
+This is a hackday project completed in a day while working at Eigen Technologies.
+I'd do a lot of things differently now, including using environment variables rather than manually configuring the `VSCODE_PATTERN_MAPPING`.
+
 ## What is the JIRA Git Brancher?
 
 The JIRA Git Brancher is a plugin for JIRA that automatically creates a new branch in your Git repository based on the JIRA issue key.
